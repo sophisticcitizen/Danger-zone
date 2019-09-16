@@ -145,5 +145,7 @@ I tried to find as many free of charge services I could but nothing good is for 
 Whoxy service provides you free credits at the beginning and it's enough to test it and gather all of the useful info.\
 It goes only 2-3 level down checking only 3 newest findings, the reason behind that is graph would be unreadable with lots of connections, but full information is saved into JSON files and/or ElasticSearch.
 
+Suggestions: Try to use https://spyse.com API. It could reduce the limitations cost by those tools.
+
 ## Golden rule
 ### Don't jump to conclusions too fast.
